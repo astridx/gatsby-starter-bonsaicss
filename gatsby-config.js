@@ -3,6 +3,7 @@ module.exports = {
     title: `Gatsby Starter bonsai.css`,
     description: `Gatsby starter styled with Bonsaicss`,
     author: `@astridguenther`,
+    siteUrl: `https://astridx.github.io/gatsbystarter/gatsby-starter-mapbox-bonsaicss/`,
   },
   plugins: [
     `gatsby-plugin-eslint`,

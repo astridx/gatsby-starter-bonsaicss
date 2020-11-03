@@ -15,7 +15,7 @@
 
 ## What is Bonsai CSS?
 
-> "bonsai.css is a utility-first CSS framework for rapidly building custom user interfaces."
+> "bonsai.css is a complete CSS solution allowing you to build beautifully crafted web interfaces with ease."
 > –[bonsai.css](https://bonsaicss.com)
 
 ## What is Gatsby?
