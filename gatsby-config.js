@@ -1,9 +1,10 @@
 module.exports = {
+  pathPrefix: `/gatsbystarter/gatsby-starter-bonsaicss`,
   siteMetadata: {
     title: `Gatsby Starter bonsai.css`,
     description: `Gatsby starter styled with Bonsaicss`,
     author: `@astridguenther`,
-    siteUrl: `https://astridx.github.io/gatsbystarter/gatsby-starter-mapbox-bonsaicss/`,
+    siteUrl: `https://astridx.github.io/gatsbystarter/gatsby-starter-bonsaicss/`,
   },
   plugins: [
     `gatsby-plugin-eslint`,
