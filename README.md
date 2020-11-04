@@ -42,6 +42,12 @@ cd my-new-website
 npm run develop
 ```
 
+You can now view gatsby-starter-bonsaicss in the browser.
+
+```
+http://localhost:8000/
+```
+
 ## Format and lint
 
 - `npm run analyze` - See what ESLint and Prettier can fix
