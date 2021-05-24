@@ -4,15 +4,15 @@
   "version": "4.0.0",
   "author": "Astrid Günther <info@astrid-guenther.de>",
   "dependencies": {
-    "bonsai.css": "^1.0.1",
-    "gatsby": "2.24.92",
-    "gatsby-plugin-manifest": "2.4.35",
-    "gatsby-plugin-offline": "3.2.38",
-    "gatsby-plugin-react-helmet": "3.3.14",
-    "gatsby-plugin-sharp": "2.6.44",
+    "bonsai.css": "^1.2.2",
+    "gatsby": "^3.5.1",
+    "gatsby-plugin-manifest": "^3.5.0",
+    "gatsby-plugin-offline": "^4.5.1",
+    "gatsby-plugin-react-helmet": "^4.5.0",
+    "gatsby-plugin-sharp": "^3.5.0",
     "prop-types": "15.7.2",
-    "react": "16.14.0",
-    "react-dom": "16.14.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-helmet": "6.1.0"
   },
   "keywords": [
@@ -39,12 +39,12 @@
   },
   "devDependencies": {
     "babel-eslint": "10.1.0",
-    "eslint": "7.12.1",
+    "eslint": "7.27.0",
     "eslint-loader": "4.0.2",
-    "eslint-plugin-import": "2.22.1",
-    "eslint-plugin-react": "7.21.5",
-    "gatsby-plugin-eslint": "2.0.8",
-    "prettier": "2.1.2"
+    "eslint-plugin-import": "2.23.3",
+    "eslint-plugin-react": "7.23.2",
+    "gatsby-plugin-eslint": "3.0.0",
+    "prettier": "2.3.0"
   },
   "repository": {
     "type": "git",
